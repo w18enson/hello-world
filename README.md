@@ -1,5 +1,5 @@
 # hello-world
 testing
-testing lagi
+jangan terlalu banyak test
 
 This is a readme, you can put anything to help you setup or just quick information
